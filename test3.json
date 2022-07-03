@@ -1,0 +1,22 @@
+{
+    "indy": {
+        "requested_predicates": {},
+        "requested_attributes": {
+            "0_name_uuid": {
+                "cred_id": "61b2a2ca-a6c1-411b-bcd0-5f0dfae4c9ef",
+                "revealed": true
+            },
+            "0_date_uuid": {
+                "cred_id": "61b2a2ca-a6c1-411b-bcd0-5f0dfae4c9ef",
+                "revealed": true
+            },
+            "0_degree_uuid": {
+                "cred_id": "61b2a2ca-a6c1-411b-bcd0-5f0dfae4c9ef",
+                "revealed": true
+            }
+        },
+        "self_attested_attributes": {
+            "0_self_attested_thing_uuid": "my self-attested value"
+        }
+    }
+}
